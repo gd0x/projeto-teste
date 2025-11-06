@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Main {
+public class estruturas_condicionais {
 
     public static void main(String[] args){
 
@@ -155,6 +153,64 @@ public class Main {
         } else {
             System.out.print("tente novamente");
         }
+        */
+        //FIM DOS EXERCICIOS
+
+        //Estrutura switch-case
+        /*
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        String dia;
+
+        switch(x){
+
+            case 1:
+                dia = "domingo";
+                break;
+            case 2:
+                dia = "segunda";
+                break;
+            case 3:
+                dia = "terca";
+                break;
+            case 4:
+                dia = "quarta";
+                break;
+            case 5:
+                dia = "quinta";
+                break;
+            case 6:
+                dia = "sexta";
+                break;
+            case 7:
+                dia = "sabado";
+                break;
+            default:
+                dia = "valor invalido";
+                break;
+        }
+        System.out.print(dia);
+        */
+
+        //Expressão condicional ternaria
+        /*
+        Scanner sc = new Scanner(System.in);
+        double preco = sc.nextDouble();
+        double desconto = (preco < 20) ? preco*0.1 : preco*0.05;
+
+        System.out.printf("Você recebeu um desconto de R$ %.2f", desconto);
+        */
+
+        //Escopo e inicialização
+        /*
+        double price = 100.0;
+        double discount = 0;
+
+        if (price < 50.0) {
+            discount = price * 0.1;
+        }
+
+        System.out.print(discount);
         */
 
     }
