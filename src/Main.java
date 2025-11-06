@@ -140,7 +140,22 @@ public class Main {
         }
         */
 
-        
+        /*
+        Scanner sc = new Scanner(System.in);
+        double salario = sc.nextDouble();
+
+        if (salario >=0 && salario <= 2000){
+            System.out.print("Isento");
+        } else if (salario > 2000 && salario <= 3000){
+            System.out.printf("R$ %.2f", 0.08 * (salario-2000));
+        } else if (salario > 3000 && salario <= 4500) {
+            System.out.printf("R$ %.2f", 80 + 0.18*(salario-3000));
+        } else if (salario > 4500) {
+            System.out.printf("R$ %.2f%n", (350) + 0.28*(salario-4500));
+        } else {
+            System.out.print("tente novamente");
+        }
+        */
 
     }
 
