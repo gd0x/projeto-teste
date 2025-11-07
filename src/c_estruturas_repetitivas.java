@@ -19,7 +19,7 @@ public class c_estruturas_repetitivas {
         sc.close();
         */
 
-        //EXERCICIOS
+        //EXERCICIOS while
         /*
         Scanner sc = new Scanner(System.in);
 
@@ -83,7 +83,117 @@ public class c_estruturas_repetitivas {
         System.out.printf("Diesel: %d%n", diesel);
         */
 
-        
+        //EXERCICIOS for
+        /*
+        Scanner sc = new Scanner(System.in);
+
+        int num = sc.nextInt();
+
+        for(int i=1; i<=num ; i++){
+            if (i%2 != 0){
+                System.out.println(i);
+            }
+        }
+        sc.close();
+        */
+
+        /*
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt(); // quantidade de valores inteiros que devem ser lidos
+        int in = 0;
+        int out = 0;
+
+        for (int i = 0; i<N ;i++){ // i começa com 0 e se aproxima de N em uma unidade a cada repetição/valor digitado. Assim que i=N, os cálculos param
+            int values = sc.nextInt();
+            if (values >=10 && values <= 20){ // checa cada numero em relação ao intervalo [10;20]
+                in += 1;
+            } else {
+                out += 1;
+            }
+        }
+        System.out.printf("%d in%n%d out", in, out);
+        */
+
+        /*
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt(); // numero de casos de teste que vem a seguir.
+        for (int i = 0; i<N; i++){
+
+            float value1 = sc.nextFloat();
+            float value2 = sc.nextFloat();
+            float value3 = sc.nextFloat();
+
+            float mediaPonderada = (value1*2 + value2*3 + value3*5)/10;
+            System.out.printf("%.1f%n", mediaPonderada);
+        */
+
+        /*
+        Scanner sc = new Scanner(System.in);
+
+        int N = sc.nextInt();
+
+        for (int i = 0; i<N; i++){
+
+            int num1 = sc.nextInt();
+            int num2 = sc.nextInt();
+
+            if (num2 != 0){
+                double divisao = (double) num1/num2;
+                System.out.println(divisao);
+            } else {
+                System.out.println("divisao impossivel");
+            }
+
+        }
+
+        sc.close();
+        */
+
+        //único que não consegui até agora, pelo menos entendi a solução assim que bati o olho nela
+        /*
+        Scanner sc = new Scanner(System.in);
+
+        int N = sc.nextInt();
+
+        int fatorial = 1;
+
+        for (int i=1; i<=N; i++){
+            fatorial = fatorial * i;
+
+        }
+
+        System.out.println(fatorial);
+
+        sc.close();
+        */
+
+        /*
+        Scanner sc = new Scanner(System.in);
+
+        int N = sc.nextInt();
+
+        for (int i = 1; i <= N; i++){
+            if (N%i == 0){
+                System.out.println(i);
+            }
+        }
+        sc.close();
+        */
+
+        /*
+        Scanner sc = new Scanner(System.in);
+
+        int N = sc.nextInt();
+
+        for (int i = 1; i<=N ;i++){
+
+            System.out.println(i + " " + i*i + " " + i*i*i);
+
+        }
+        sc.close();
+        */
     }
 
 }
+
+
