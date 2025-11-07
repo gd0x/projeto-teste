@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class d_outros_topicos_basicos {
 
-    public static void main (String[] args){
+    public static void main(String[] args) {
 
         //Operadores bitwise
         /*
@@ -60,7 +60,6 @@ public class d_outros_topicos_basicos {
         System.out.print(word1 + " " + word2 + " " + " " + word3);
         */
 
-        
 
     }
 
