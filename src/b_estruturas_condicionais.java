@@ -1,4 +1,4 @@
-public class II_estruturas_condicionais {
+public class b_estruturas_condicionais {
 
     public static void main(String[] args){
 

@@ -1,4 +1,4 @@
-public class I_estruturas_sequenciais {
+public class a_estruturas_sequenciais {
 
     public static void main(String[] args) {
         //(System.out.print, Concatenação, Quebra de linha, Tipos de Variáveis e Locale)
