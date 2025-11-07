@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/III_estruturas_repetitivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c_estruturas_repetitivas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/II_estruturas_condicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_estruturas_condicionais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I_estruturas_sequenciais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_estruturas_sequenciais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_estruturas_repetitivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c_estruturas_repetitivas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dfgus/Documents/GitHub/projeto-teste&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dfgus/Documents/GitHub/projeto-teste/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.c_estruturas_repetitivas.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dfgus/Documents/GitHub/projeto-teste",
+    "onboarding.tips.debug.path": "C:/Users/dfgus/Documents/GitHub/projeto-teste/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="" />
