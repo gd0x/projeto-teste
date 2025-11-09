@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pre-OOP/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pre-OOP/src/entities/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto-teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto-teste.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_estruturas_sequenciais.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/a_estruturas_sequenciais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_estruturas_condicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/b_estruturas_condicionais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/c_estruturas_repetitivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/c_estruturas_repetitivas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d_outros_topicos_basicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/d_outros_topicos_basicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +37,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Program.executor": "Run",
+    "Application.Program1.executor": "Run",
     "Application.c_estruturas_repetitivas.executor": "Run",
     "Application.d_outros_topicos_basicos.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -55,11 +48,11 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/dfgus/Documents/GitHub/projeto-teste",
-    "onboarding.tips.debug.path": "C:/Users/dfgus/Documents/GitHub/projeto-teste/pre-OOP/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/dfgus/Documents/GitHub/projeto-teste/OOP Classes/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -67,6 +60,13 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dfgus\Documents\GitHub\projeto-teste" />
+      <recent name="C:\Users\dfgus\Documents\GitHub\projeto-teste\pre-OOP\src" />
+      <recent name="C:\Users\dfgus\Documents\GitHub\projeto-teste\pre-OOP" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="" />
