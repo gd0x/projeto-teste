@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Classes/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pre-OOP/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pre-OOP/src/entities/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d_outros_topicos_basicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d_outros_topicos_basicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto-teste.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_estruturas_sequenciais.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/a_estruturas_sequenciais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_estruturas_condicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/b_estruturas_condicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_estruturas_repetitivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/c_estruturas_repetitivas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/d_outros_topicos_basicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/d_outros_topicos_basicos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,30 +41,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.c_estruturas_repetitivas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.d_outros_topicos_basicos.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dfgus/Documents/GitHub/projeto-teste&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dfgus/Documents/GitHub/projeto-teste/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.c_estruturas_repetitivas.executor": "Run",
+    "Application.d_outros_topicos_basicos.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dfgus/Documents/GitHub/projeto-teste",
+    "onboarding.tips.debug.path": "C:/Users/dfgus/Documents/GitHub/projeto-teste/pre-OOP/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Errors"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="" />
@@ -72,6 +84,11 @@
           <url>file://$PROJECT_DIR$/projeto_teste/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pre-OOP/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
