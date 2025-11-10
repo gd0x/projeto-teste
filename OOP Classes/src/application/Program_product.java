@@ -1,13 +1,15 @@
 package application;
 
+
 import entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Program1 {
+public class Program_product {
 
     public static void main(String[] args) {
+
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
@@ -41,6 +43,7 @@ public class Program1 {
         System.out.println("Updated data: " + product);
 
         sc.close();
+
 
     }
 

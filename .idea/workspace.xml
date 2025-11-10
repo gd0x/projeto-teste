@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP Classes/src/application/Program_employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Classes/src/application/Program_rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Classes/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Classes/src/entities/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/Program_product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre-OOP/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/application/Program_triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,10 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Program.executor": "Run",
-    "Application.Program1.executor": "Run",
+    "Application.Program1.executor": "Debug",
+    "Application.Program2.executor": "Run",
+    "Application.Program_employee.executor": "Run",
+    "Application.Program_product.executor": "Run",
     "Application.c_estruturas_repetitivas.executor": "Run",
     "Application.d_outros_topicos_basicos.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -66,6 +73,26 @@
       <recent name="C:\Users\dfgus\Documents\GitHub\projeto-teste\pre-OOP\src" />
       <recent name="C:\Users\dfgus\Documents\GitHub\projeto-teste\pre-OOP" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program_employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Program_employee" />
+      <module name="OOP Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program_employee" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
