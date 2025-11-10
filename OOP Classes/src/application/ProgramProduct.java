@@ -6,7 +6,7 @@ import entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Program_product {
+public class ProgramProduct {
 
     public static void main(String[] args) {
 
