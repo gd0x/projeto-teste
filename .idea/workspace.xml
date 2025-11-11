@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP Classes/src/application/ProgramCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/src/application/ProgramConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/src/util/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/src/util/CurrencyConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/ProgramCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/f_ProgramCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/ProgramConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/g_ProgramConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/ProgramEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/d_ProgramEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/ProgramGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/e_ProgramGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/ProgramProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/b_ProgramProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/ProgramRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/c_ProgramRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/d_Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/e_Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/b_Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/c_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/util/f_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP Classes/src/util/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/util/g_CurrencyConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre-OOP/src/application/Program_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/a_ProgramTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre-OOP/src/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/a_Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +56,11 @@
     "Application.ProgramRadius.executor": "Run",
     "Application.Program_employee.executor": "Run",
     "Application.Program_product.executor": "Run",
+    "Application.c_ProgramRectangle.executor": "Run",
     "Application.c_estruturas_repetitivas.executor": "Run",
+    "Application.d_ProgramEmployee.executor": "Run",
     "Application.d_outros_topicos_basicos.executor": "Run",
+    "Application.g_ProgramConverter.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -77,12 +89,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ProgramEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.ProgramEmployee" />
+    <configuration name="d_ProgramEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.d_ProgramEmployee" />
       <module name="OOP Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="application.ProgramEmployee" />
+          <option name="PATTERN" value="application.d_ProgramEmployee" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,7 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProgramEmployee" />
+        <item itemvalue="Application.d_ProgramEmployee" />
       </list>
     </recent_temporary>
   </component>

@@ -1,6 +1,6 @@
 package util;
 
-public class Calculator {
+public class f_Calculator {
 
     // funcoes da versao 2 do codigo
     /*

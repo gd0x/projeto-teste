@@ -1,18 +1,18 @@
 package application;
 
-import entities.Grades;
+import entities.e_Grades;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProgramGrades {
+public class e_ProgramGrades {
 
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Grades grade = new Grades();
+        e_Grades grade = new e_Grades();
         String name = sc.nextLine();
 
         grade.num1 = sc.nextDouble();

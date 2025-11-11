@@ -1,11 +1,11 @@
 package application;
 
-import util.Calculator;
+import util.f_Calculator;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProgramCalculator {
+public class f_ProgramCalculator {
 
     // public static final double PI = 3.14159;
 
@@ -56,13 +56,13 @@ public class ProgramCalculator {
         System.out.print("Enter radius: ");
         double radius = sc.nextDouble();
 
-        double c = Calculator.circumference(radius);
+        double c = f_Calculator.circumference(radius);
 
-        double v = Calculator.volume(radius);
+        double v = f_Calculator.volume(radius);
 
         System.out.printf("Circumference: %.2f%n", c);
         System.out.printf("Volume: %.2f%n", v);
-        System.out.printf("PI value: %.2f%n",  Calculator.PI);
+        System.out.printf("PI value: %.2f%n",  f_Calculator.PI);
 
         sc.close();
 

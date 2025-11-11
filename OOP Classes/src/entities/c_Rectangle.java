@@ -1,6 +1,6 @@
 package entities;
 
-public class Rectangle {
+public class c_Rectangle {
 
     public double width;
     public double height;

@@ -1,13 +1,13 @@
 package application;
 
-import util.CurrencyConverter;
+import util.g_CurrencyConverter;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProgramConverter {
+public class g_ProgramConverter {
 
-    public static void main (String[] args){
+    public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
@@ -16,10 +16,9 @@ public class ProgramConverter {
         double dollarPrice = sc.nextDouble();
 
         System.out.print("How many dollars will be bought? ");
-        double amountDollars = sc.nextDouble();
+        double amount = sc.nextDouble();
 
-        double result = CurrencyConverter.dollarToReal(amountDollars, dollarPrice);
-        System.out.printf("Amount to be paid in reais = %.2f ", result);
+        System.out.printf("Amount to be paid in reais = %.2f", g_CurrencyConverter.converter(dollarPrice, amount));
 
         sc.close();
 

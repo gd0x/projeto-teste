@@ -1,18 +1,18 @@
 package application;
 
-import entities.Employee;
+import entities.d_Employee;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProgramEmployee {
+public class d_ProgramEmployee {
 
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Employee info = new Employee();
+        d_Employee info = new d_Employee();
 
         System.out.print("Name: ");
         info.name = sc.nextLine();

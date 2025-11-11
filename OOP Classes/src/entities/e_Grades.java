@@ -1,6 +1,6 @@
 package entities;
 
-public class Grades {
+public class e_Grades {
 
     public double num1;
     public double num2;
