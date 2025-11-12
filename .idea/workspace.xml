@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/a_ProgramTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/a_ProgramTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/c_ProgramRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/c_ProgramRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/d_ProgramEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/d_ProgramEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/e_ProgramGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/e_ProgramGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/f_ProgramCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/f_ProgramCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/g_ProgramConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/g_ProgramConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/application/h_ProgramBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/application/h_ProgramBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/a_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/a_Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/b_Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/b_Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/c_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/c_Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/d_Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/d_Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/e_Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/e_Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/entities/h_BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/entities/h_BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/util/f_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/util/f_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/src/util/g_CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/src/util/g_CurrencyConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pre-OOP/src/a_estruturas_sequenciais.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/a_estruturas_sequenciais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pre-OOP/src/c_estruturas_repetitivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/c_estruturas_repetitivas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pre-OOP/src/d_outros_topicos_basicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/pre-OOP/src/d_outros_topicos_basicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto-teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto-teste.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-snake-maven" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
