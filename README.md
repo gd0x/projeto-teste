@@ -1,3 +1,3 @@
-no pre-OOP estão as aulas e exercicios da lógica de programação do Java
+fiquei 1h tentando colocar o snake-game aqui mas n tava dando certo, criei outro repositorio
 
-no OOP Classes estão as aulas + exercicios de Programação Orientada a Objetos
+https://github.com/gd0x/java-snake-maven
