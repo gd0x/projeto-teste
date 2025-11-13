@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/entities/Alturas_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/entities/NumerosPares_004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/exercicios/exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/exercicios-vetores.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Classes/exercicios/src/application/Program_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +36,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ex005.executor": "Run",
+    "Application.Ex006.executor": "Run",
+    "Application.Ex007.executor": "Run",
+    "Application.Ex008.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Program.executor": "Run",
     "Application.Program1.executor": "Debug",
