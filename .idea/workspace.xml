@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="" />
+    <list default="true" id="ba910962-d197-4d7d-8241-a97915e517ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex011.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/src/application/Ex011.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
