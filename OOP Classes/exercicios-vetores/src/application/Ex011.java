@@ -39,12 +39,13 @@ public class Ex011 {
                 shortest = vectHeight[i];
             }
 
-            if(vectGender[i].charAt(0) == 'F'){
+            char c = vectGender[i].toUpperCase().charAt(0);
+            if(c == 'F'){
                 amountWomen +=1;
                 heightWomen += vectHeight[i];
             }
 
-            if (vectGender[i].charAt(0) == 'M'){
+            if (c == 'M'){
                 amountMen +=1;
             }
         }
