@@ -1,0 +1,34 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class i_Aula1Vetores {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        Locale.setDefault(Locale.US);
+
+        int n = sc.nextInt();
+        double[] vect = new double[n]; // criando o vetor, definindo o tamanho e tipo
+
+        for (int i = 0; i < n; i++) { // cada posição i do vetor vai receber o valor digitado
+            vect[i] = sc.nextDouble();
+        }
+
+        double sum = 0.0;
+
+        for (int i = 0; i < n; i++) { // soma dos valores do vetor
+            sum += vect[i];
+        }
+
+        double avg = sum / n;
+
+        System.out.printf("AVERAGE HEIGHT: %.2f", avg);
+
+        sc.close();
+
+    }
+
+}
