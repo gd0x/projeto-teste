@@ -21,6 +21,7 @@
                     <mainClass>com.zetcode.Snake</mainClass>
                 </configuration>
             </plugin>
+            <!-- Plugin para o jar? -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>

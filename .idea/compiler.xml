@@ -9,5 +9,8 @@
         <module name="java-snake-maven" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-snake-game" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
