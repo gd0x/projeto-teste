@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOP Classes/OOP Classes.iml" filepath="$PROJECT_DIR$/OOP Classes/OOP Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Classes/exercicios-vetores/exercicios-vetores.iml" filepath="$PROJECT_DIR$/OOP Classes/exercicios-vetores/exercicios-vetores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projeto-teste.iml" filepath="$PROJECT_DIR$/projeto-teste.iml" />
     </modules>
   </component>
 </project>
